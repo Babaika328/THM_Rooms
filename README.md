@@ -16,6 +16,7 @@ I document my own solutions and approaches, showing **what** I did and **how** I
 |------|------------|--------|-------------|
 | [Corridor](https://tryhackme.com/room/corridor) | Easy | IDOR, MD5 hashes, web enumeration | [Easy/Corridor/Corridor.md](Easy/Corridor/Corridor.md) |
 | [Lo-Fi](https://tryhackme.com/room/lofi) | Easy | LFI, path traversal | [Easy/Lo-Fi/Lo-Fi.md](Easy/Lo-Fi/Lo-Fi.md) |
+| [Neighbour](https://tryhackme.com/room/neighbour) | Easy | IDOR, web enumeration | [Easy/Neighbour/Neighbour.md](Easy/Neighbour/Neighbour.md) |
 
 ## Repository structure
 
@@ -26,8 +27,11 @@ THM_Rooms/
     ├── Corridor/
     │   ├── Corridor.md
     │   └── Assets/
-    └── Lo-Fi/
-        ├── Lo-Fi.md
+    ├── Lo-Fi/
+    │   ├── Lo-Fi.md
+    │   └── Assets/
+    └── Neighbour/
+        ├── Neighbour.md
         └── Assets/
 ```
 
