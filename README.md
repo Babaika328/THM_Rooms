@@ -18,6 +18,7 @@ I document my own solutions and approaches, showing **what** I did and **how** I
 | [Lo-Fi](https://tryhackme.com/room/lofi) | Easy | LFI, path traversal | [Easy/Lo-Fi/Lo-Fi.md](Easy/Lo-Fi/Lo-Fi.md) |
 | [Neighbour](https://tryhackme.com/room/neighbour) | Easy | IDOR, web enumeration | [Easy/Neighbour/Neighbour.md](Easy/Neighbour/Neighbour.md) |
 | [The Sticker Shop](https://tryhackme.com/room/thestickershop) | Easy | Stored XSS, SSRF-via-victim | [Easy/The_Sticker_Shop/The_Sticker_Shop.md](Easy/The_Sticker_Shop/The_Sticker_Shop.md) |
+| [Tomghost](https://tryhackme.com/room/tomghost) | Easy | CVE-2020-1938 (Ghostcat), GPG cracking, sudo zip GTFOBins | [Easy/Tomghost/tomghost.md](Easy/Tomghost/tomghost.md) |
 
 ## Repository structure
 
@@ -34,8 +35,11 @@ THM_Rooms/
     ├── Neighbour/
     │   ├── Neighbour.md
     │   └── Assets/
-    └── The_Sticker_Shop/
-        ├── The_Sticker_Shop.md
+    ├── The_Sticker_Shop/
+    │   ├── The_Sticker_Shop.md
+    │   └── Assets/
+    └── Tomghost/
+        ├── tomghost.md
         └── Assets/
 ```
 
