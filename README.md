@@ -15,6 +15,7 @@ I document my own solutions and approaches, showing **what** I did and **how** I
 | Room | Difficulty | Topics | Walkthrough |
 |------|------------|--------|-------------|
 | [Corridor](https://tryhackme.com/room/corridor) | Easy | IDOR, MD5 hashes, web enumeration | [Easy/Corridor/Corridor.md](Easy/Corridor/Corridor.md) |
+| [Dig Dug](https://tryhackme.com/room/digdug) | Easy | DNS enumeration, `dig`, TXT records | [Easy/Dig_Dug/Dig_Dug.md](Easy/Dig_Dug/Dig_Dug.md) |
 | [Lo-Fi](https://tryhackme.com/room/lofi) | Easy | LFI, path traversal | [Easy/Lo-Fi/Lo-Fi.md](Easy/Lo-Fi/Lo-Fi.md) |
 | [Neighbour](https://tryhackme.com/room/neighbour) | Easy | IDOR, web enumeration | [Easy/Neighbour/Neighbour.md](Easy/Neighbour/Neighbour.md) |
 | [Simple CTF](https://tryhackme.com/room/easyctf) | Easy | Nmap, web enumeration, CVE-2019-9053 (CMS Made Simple SQLi), Hydra brute-force, GTFOBins (vim) privesc | [Easy/Simple_CTF/Simple_CTF.md](Easy/Simple_CTF/Simple_CTF.md) |
@@ -29,6 +30,9 @@ THM_Rooms/
 └── Easy/
     ├── Corridor/
     │   ├── Corridor.md
+    │   └── Assets/
+    ├── Dig_Dug/
+    │   ├── Dig_Dug.md
     │   └── Assets/
     ├── Lo-Fi/
     │   ├── Lo-Fi.md
