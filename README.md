@@ -14,6 +14,7 @@ I document my own solutions and approaches, showing **what** I did and **how** I
 
 | Room | Difficulty | Topics | Walkthrough |
 |------|------------|--------|-------------|
+| [Bounty Hacker](https://tryhackme.com/room/cowboyhacker) | Easy | Anonymous FTP, web enumeration, Hydra brute-force, GTFOBins (tar) privesc | [Easy/Bounty_Hacker/Bounty_Hacker.md](Easy/Bounty_Hacker/Bounty_Hacker.md) |
 | [Corridor](https://tryhackme.com/room/corridor) | Easy | IDOR, MD5 hashes, web enumeration | [Easy/Corridor/Corridor.md](Easy/Corridor/Corridor.md) |
 | [CyberHeroes](https://tryhackme.com/room/cyberheroes) | Easy | Client-side auth, JS source review, string reversal | [Easy/CyberHeroes/CyberHeroes.md](Easy/CyberHeroes/CyberHeroes.md) |
 | [Dig Dug](https://tryhackme.com/room/digdug) | Easy | DNS enumeration, `dig`, TXT records | [Easy/Dig_Dug/Dig_Dug.md](Easy/Dig_Dug/Dig_Dug.md) |
@@ -30,6 +31,9 @@ I document my own solutions and approaches, showing **what** I did and **how** I
 THM_Rooms/
 ├── README.md
 └── Easy/
+    ├── Bounty_Hacker/
+    │   ├── Bounty_Hacker.md
+    │   └── Assets/
     ├── Corridor/
     │   ├── Corridor.md
     │   └── Assets/
