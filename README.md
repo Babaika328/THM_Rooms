@@ -19,6 +19,7 @@ I document my own solutions and approaches, showing **what** I did and **how** I
 | [Corridor](https://tryhackme.com/room/corridor) | Easy | IDOR, MD5 hashes, web enumeration | [Easy/Corridor/Corridor.md](Easy/Corridor/Corridor.md) |
 | [CyberHeroes](https://tryhackme.com/room/cyberheroes) | Easy | Client-side auth, JS source review, string reversal | [Easy/CyberHeroes/CyberHeroes.md](Easy/CyberHeroes/CyberHeroes.md) |
 | [Dig Dug](https://tryhackme.com/room/digdug) | Easy | DNS enumeration, `dig`, TXT records | [Easy/Dig_Dug/Dig_Dug.md](Easy/Dig_Dug/Dig_Dug.md) |
+| [Hidden Deep Into my Heart](https://tryhackme.com/room/lafb2026e9) | Easy | `robots.txt` info disclosure, directory brute-forcing (ffuf), default/leaked credentials | [Easy/Deep_Into_my_Heart/Deep_Into_my_Heart.md](Easy/Deep_Into_my_Heart/Deep_Into_my_Heart.md) |
 | [Lo-Fi](https://tryhackme.com/room/lofi) | Easy | LFI, path traversal | [Easy/Lo-Fi/Lo-Fi.md](Easy/Lo-Fi/Lo-Fi.md) |
 | [Neighbour](https://tryhackme.com/room/neighbour) | Easy | IDOR, web enumeration | [Easy/Neighbour/Neighbour.md](Easy/Neighbour/Neighbour.md) |
 | [Silver Platter](https://tryhackme.com/room/silverplatter) | Easy | Web enumeration, CVE-2024-36042 (Silverpeas auth bypass), log-based credential hunting, password reuse, sudo privesc | [Easy/Silver_Platter/Silver_Platter.md](Easy/Silver_Platter/Silver_Platter.md) |
@@ -43,6 +44,9 @@ THM_Rooms/
     │   └── Assets/
     ├── CyberHeroes/
     │   ├── CyberHeroes.md
+    │   └── Assets/
+    ├── Deep_Into_my_Heart/
+    │   ├── Deep_Into_my_Heart.md
     │   └── Assets/
     ├── Dig_Dug/
     │   ├── Dig_Dug.md
